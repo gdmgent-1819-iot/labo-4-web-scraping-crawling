@@ -1,7 +1,6 @@
 # labo-4-web-scraping-crawling
 labo-4-web-scraping-crawling created by GitHub Classroom
 
-
 # Web Crawling
 
 ## 1.0 Wat is Web Crawling
@@ -35,7 +34,7 @@ Als een frauduleuze crawler "robots.txt" niet op uw website vindt, of als de ric
 
 Marketeers die hun eigen crawlers gebruiken, geven er niet om wat voor schade ze op uw website toebrengen. Ze zijn er alleen om informatie te verzamelen voor hun eigen voordeel. Veel van deze mensen beschouwen zichzelf als fijne, fatsoenlijke mensen. Sterker nog, ze zouden niet aarzelen om te stoppen en iemand te helpen die gestrand was op de weg of op straat gewond lag. Maar als het gaat om het verkrachten van het web voor eigen winst, hebben ze geen ethische normen.
 
-## 3.0 Toepassingen
+## 4.0 Toepassingen
 Het klassieke doel van een crawler is om een index te maken. Aldus zijn crawlers de basis voor het werk van zoekmachines. Ze doorzoeken eerst het web op inhoud en maken de resultaten vervolgens beschikbaar voor gebruikers. Gerichte crawlers concentreren zich bijvoorbeeld op actuele, inhoud relevante websites bij het indexeren.
 
 Maar webcrawlers worden ook voor andere disciplines gebruikt:
@@ -46,20 +45,19 @@ Op het gebied van datamining kan een crawler openbaar beschikbare e-mail- of pos
 Webanalysetools gebruiken crawlers of spiders om gegevens te verzamelen voor paginaweergaven of inkomende of uitgaande links .
 Crawlers dienen om informatiehubs van gegevens te voorzien, bijvoorbeeld nieuwssites.
  
-## 3.1 Toepassingen
 Beautiful Soup is een Python-bibliotheek om gegevens uit HTML- en XML-bestanden te halen. Het werkt met uw favoriete parser om idiomatische manieren te bieden voor het navigeren, zoeken en wijzigen van de ontleedboom. Het bespaart programmeurs over het algemeen uren of dagen werk. Een ander bekende web crawler dat gebruikt kan worden in Python is ‘Scrapy’. Scrapy is een opensource webcrawling framework dat oorspronkelijk ontworpen werd voor webscraping maar het kan dus ook worden gebruikt als webcrawler voor algemene doeleinden. Scrapy is in handen van Scrapinghub. 
 
 Niet alleen in Python bestaan web crawlers maar ook in bv Java. Eén van de meest gekend in Java is ‘Heritrix’. Hentrix is een web crawler geschreven door Internet Archive met als doeleind een web argief, de crawls worden gestart aan de hand van cli. Heritrix beschikbaar onder een vrije softwarelicentie.
 
  
  
-## 4.0 Crawler vs. Scraper 
+## 5.0 Crawler vs. Scraper 
 In tegenstelling tot een scraper, verzamelt een crawler alleen gegevens en bereidt deze voor. Schrapen is echter een black hat-techniek , die erop gericht is om gegevens in de vorm van inhoud van andere sites te kopiëren om het op die manier of een enigszins aangepaste vorm ervan op de eigen website te plaatsen. Hoewel een crawler meestal te maken heeft met metadata die op het eerste gezicht niet zichtbaar is voor de gebruiker, haalt een scraper tastbare inhoud uit.
  
-## 5.0 Een crawler blokkeren
+## 6.0 Een crawler blokkeren
 Als u niet wilt dat bepaalde crawlers door uw website bladeren, kunt u hun user-agent uitsluiten met robots.txt . Maar dat kan niet voorkomen dat inhoud wordt geïndexeerd door zoekmachines. De noindex- metatag of de canonieke tag is voor dit doel beter.
 
-## 6.0 Betekenis voor zoekmachine-optimalisatie
+## 7.0 Betekenis voor zoekmachine-optimalisatie
 
 Webcrawlers zoals de Googlebot bereiken hun doel om websites in de SERP te rangschikken door te crawlen en te indexeren. Ze volgen permanente links in het WWW en op websites. Per website heeft elke crawler een beperkt tijdsbestek en budget beschikbaar. Door de optimalisatie van de websitestructuur, zoals navigatie en bestandsgrootte, kunnen website-exploitanten het crawlbudget van de Googlebot beter benutten. Tegelijkertijd neemt het budget toe door een verscheidenheid aan inkomende links en een sterk bezochte website. De belangrijke instrumenten die nodig zijn voor het beheren van Crawlers, zoals de Googlebot, zijn de robots.txt-gegevens en de XML-sitemap die is opgeslagen in de Google Search Console.. In het SGR kan een sms worden verzonden of alle relevante delen van een website kunnen worden bereikt en geïndexeerd door de Googlebot.
 
