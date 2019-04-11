@@ -11,25 +11,25 @@ De oefeningen kun je runnen via het command
 
 # inhoudstafel
 
-Web Crawling
-1.0	Wat is web Crawling
-2.0	Hoe werkt een crawler
-3.0	Is een crawler wel veilig
-3.1	Zijn marketingstools rogue crawlers
-4.0	Toepassingen
-4.1	Voorbeelden
-5.0	Crawler vs Scraper
-6.0	Een crawler blokkeren
-7.0	Betekenis voor zoekmachine-optimalisatie 
+## Web Crawling
+- 1.0	Wat is web Crawling
+- 2.0	Hoe werkt een crawler
+- 3.0	Is een crawler wel veilig
+- 3.1	Zijn marketingstools rogue crawlers
+- 4.0	Toepassingen
+- 4.1	Voorbeelden
+- 5.0	Crawler vs Scraper
+- 6.0	Een crawler blokkeren
+- 7.0	Betekenis voor zoekmachine-optimalisatie 
 
-Web scraping
-1.0	Wat is web scraping
-2.0	Is web scraping dan toch niet zo onschuldig?
-3.0	Verschillende benaderingen van webscrapen
-3.1	DaaS of Data as a Service
-3.2	In-house web scraping
-3.3	Verticale specifieke oplossingen
-4.0	Toepassingen
+## Web scraping
+- 1.0	Wat is web scraping
+- 2.0	Is web scraping dan toch niet zo onschuldig?
+- 3.0	Verschillende benaderingen van webscrapen
+- 3.1	DaaS of Data as a Service
+- 3.2	In-house web scraping
+- 3.3	Verticale specifieke oplossingen
+- 4.0	Toepassingen
 
 # Web Crawling
 
