@@ -1,5 +1,35 @@
 # labo-4-web-scraping-crawling
 labo-4-web-scraping-crawling created by GitHub Classroom
+# Voorwoord
+
+Web Scraping / Crawling. Web Scraping / Crawling dat is het onderwerp dat Indy & ik (Olivier) kregen. Beiden wisten we niet wat deze 2 termen inhielden dus begonnen we aan een lange zoektocht langs Wikipedia, YouTube & … Na enkele dagen lezen & tutorials kijken begonnen we te snappen wat het inhield en dat het ook vrij interessant en handig iets is. Dat gene wat wij er in deze korte tijd over hebben geleerd hebben we samen gebundeld in deze volgende pagina’s. 
+In 4 oefeningen die meegeleverd werden verduidelijken we wat we in onderstaande pagina’s hebben neergeschreven, de oefeningen zijn gemaakt met behulp van video tutorials & w3resource.
+
+De oefeningen kun je runnen via het command
+``python naamvanbestand.py ``
+
+
+# inhoudstafel
+
+Web Crawling
+1.0	Wat is web Crawling
+2.0	Hoe werkt een crawler
+3.0	Is een crawler wel veilig
+3.1	Zijn marketingstools rogue crawlers
+4.0	Toepassingen
+4.1	Voorbeelden
+5.0	Crawler vs Scraper
+6.0	Een crawler blokkeren
+7.0	Betekenis voor zoekmachine-optimalisatie 
+
+Web scraping
+1.0	Wat is web scraping
+2.0	Is web scraping dan toch niet zo onschuldig?
+3.0	Verschillende benaderingen van webscrapen
+3.1	DaaS of Data as a Service
+3.2	In-house web scraping
+3.3	Verticale specifieke oplossingen
+4.0	Toepassingen
 
 # Web Crawling
 
